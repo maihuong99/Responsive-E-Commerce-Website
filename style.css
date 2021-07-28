@@ -443,6 +443,7 @@ header .header-2.header-active{
 .gallery .image-container .box .image img{
     height: 100%;
     object-fit: cover;
+    width: 13rem;
 }
 
 .gallery .image-container .box:hover .image{
